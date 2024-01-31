@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik Khandelwal</h1>
-<h3 align="center">A passionate app developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 📫 How to reach me **hardikkh1401@gmail.com**
 
